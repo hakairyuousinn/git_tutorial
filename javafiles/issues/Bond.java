@@ -1,12 +1,12 @@
-package java.issues;
+package javafiles.issues;
 
 public class Bond {
     private String name;
     private String code;
 
     public Bond(String name, String code) {
-        setName(name);
-        setCode(code);
+        this.setName(name);
+        this.setCode(code);
     }
 
     //getter,setter

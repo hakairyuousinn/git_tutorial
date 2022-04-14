@@ -1,6 +1,6 @@
-package java.test;
+package javafiles.test;
 
-import java.issues.Bond;
+import javafiles.issues.Bond;
 
 class Test{
     public static void main(String[] args) {
