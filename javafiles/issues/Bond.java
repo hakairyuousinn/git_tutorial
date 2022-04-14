@@ -1,4 +1,4 @@
-package javafiles.issues;
+package issues;
 
 public class Bond {
     private String name;
